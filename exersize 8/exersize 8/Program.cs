@@ -14,5 +14,7 @@
                    
             }
         }
+          Console.Write("how wide?);
+          int maxWidth = int.Parse (Console.Readline)
     }
 }
